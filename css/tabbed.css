@@ -20,7 +20,7 @@
     background-color: #F2EFE0;
     padding: 0;
     margin: 3px;
-      border-radius: 1px 1px 1px 1px;
+    border-radius: 1px 1px 1px 1px;
     -webkit-border-radius: 1px 1px 1px 1px;
     -moz-border-radius: 1px 1px 1px 1px;
     border: thin black solid;
@@ -33,14 +33,14 @@
     background-color: #F2EFE0;
     padding: 0;
     margin: 3px;
-     border-radius: 1px 1px 1px 1px;
+    border-radius: 1px 1px 1px 1px;
     -webkit-border-radius: 1px 1px 1px 1px;
     -moz-border-radius: 1px 1px 1px 1px;
     border: thin black solid;
 }
 
 .ui-grid-c a {
-     text-decoration: none;
+    text-decoration: none;
     color: #000000;
 }
 
